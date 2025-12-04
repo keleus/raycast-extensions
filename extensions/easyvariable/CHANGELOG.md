@@ -1,5 +1,9 @@
 # EasyVariable Changelog
 
+## [Enhancements] - {PR_MERGE_DATE}
+
+- Add Windows platform support
+
 ## [Enhancements] - 2025-03-05
 
 - Reformat project profile files with Prettier
